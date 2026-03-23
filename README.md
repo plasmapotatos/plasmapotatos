@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">Trying to make AI more efficient</h3>
 <p align="left">
-  Hey! I'm mainly a student researcher collaborating with the CSE department of the University of California, Santa Cruz.  
+  Hey! I'm mainly a student researcher collaborating with the CS department of the University of Illinois, Urbana-Champaign.  
   If I'm not coding, I'm probably trying to play badminton but failing spectacularly. Check out some of my pinned projects below!
 </p>
 
